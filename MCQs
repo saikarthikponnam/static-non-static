@@ -1,1 +1,30 @@
-
+1.  C. Each object has its own copy
+2.  B. Class variables
+3.  C. super
+4.  C. They require an object to be called
+5.  B. this refers to the current object, which doesn’t exist in static context
+6.  D. Directly accessing instance variables
+7.  B. Every time an object is created
+8.  B. Executes only once when class is loaded
+9.  D. All of the above
+10. B. Memory allocated once per class
+11. A. 10
+12. B. 15
+13. C. Compilation error
+14. A. 10
+15. B. 2
+16. B. 50
+17. B. 10
+18. C. 15
+19. C. Static Instance
+20. B. 25
+21. B. 40
+22. B. 11
+23. A. 0
+24. C. 20
+25. C. Compilation error if printed
+26. A. 100
+27. B. 10
+28. C. 40
+29. D. 8
+30. B. 10 40
